@@ -10,6 +10,6 @@
 	grid-template-rows: repeat(2,1fr);
 	gap:2px;
 }
-.box{
+.item-1{
 	background:gray;
 }
