@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.grids{
+.holder{
 	display:grid;
 	background: black;
 	border: 2px solid black;
