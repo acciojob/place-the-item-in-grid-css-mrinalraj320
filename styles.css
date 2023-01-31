@@ -2,14 +2,15 @@
 /* Your CSS Code here. */
 .holder{
 	display:grid;
-	background: black;
-	border: 2px solid black;
 	height:200px;
 	width: 200px;
-	grid-template-columns: repeat(2,1fr);
-	grid-template-rows: repeat(2,1fr);
-	gap:2px;
+	grid-template-columns: repeat(2,200px);
+	grid-template-rows: repeat(2,200px);
+	gap:3px;
 }
 .item-1{
 	background:gray;
+	display:flex;
+	justify-content:center;
+	align-items:center
 }
